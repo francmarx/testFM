@@ -4,8 +4,7 @@ site_description: Test MkDocs
 site_name: Testerei
 #site_url: https://docs.mainflux.io
 edit_uri: ""
-theme:
-  name: readthedocs
+theme: readthedocs
 #  name: material
 #  logo: img/logo.png
 #  favicon: img/logo.png
