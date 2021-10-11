@@ -5,7 +5,8 @@ site_name: Testerei
 #site_url: https://docs.mainflux.io
 edit_uri: ""
 theme:
-  name: material
+  name: rtd-dropdown
+#  name: material
 #  logo: img/logo.png
 #  favicon: img/logo.png
 #  icon:
