@@ -13,8 +13,6 @@ It accepts user and thing connections over various network protocols (i.e. HTTP,
 MQTT, WebSocket, CoAP), thus making a seamless bridge between them. It is used as the IoT middleware
 for building complex IoT solutions.
 
-![banner](img/gopherBanner.jpg)
-
 ### Features
 
 - Protocol bridging (i.e. HTTP, MQTT, WebSocket, CoAP)
