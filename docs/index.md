@@ -1,8 +1,8 @@
 # testFM
 
-[project on github](https://github.com/francmarx/testFM)
-[build the docs](https://readthedocs.org/projects/testfm2/)
-[mkdocs for ReadTheDocs](https://testfm2.readthedocs.io/)
+* [project on github](https://github.com/francmarx/testFM)
+* [build the docs](https://readthedocs.org/projects/testfm2/)
+* [mkdocs for ReadTheDocs](https://testfm2.readthedocs.io/)
 
 # Overview
 
